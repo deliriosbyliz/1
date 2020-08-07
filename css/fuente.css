@@ -1,0 +1,9 @@
+@font-face{
+    font-family:"liz";
+    src:url(../fuente/liz.ttf), url(../fuente/liz.eot), url(../fuente/liz.otf) ;
+}
+
+@font-face{
+    font-family:Amsterdam;
+    src:url(amsterdam-one.ttf);
+}
